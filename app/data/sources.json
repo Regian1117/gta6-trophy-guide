@@ -1,0 +1,392 @@
+{
+  "auditSummary": {
+    "guidesCited": 55,
+    "totalTrophies": 55,
+    "totalClaims": 600,
+    "backed2PlusClaims": 600,
+    "pagesRead": 80,
+    "siteCount": 29,
+    "disputesCount": 24,
+    "readDate": "2026-11-21",
+    "readDateShort": "Nov 21",
+    "readDateDisplay": "Read 21 Nov"
+  },
+  "sources": [
+    {
+      "id": "powerpyx",
+      "name": "PowerPyx",
+      "domain": "powerpyx.com",
+      "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+      "pagesRead": 14,
+      "claimsBacked": 302,
+      "verifiedDate": "Nov 21",
+      "tier": 1,
+      "role": "Full Trophy Roadmap, Checklist & Video Locations"
+    },
+    {
+      "id": "exophase",
+      "name": "Exophase",
+      "domain": "exophase.com",
+      "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+      "pagesRead": 4,
+      "claimsBacked": 165,
+      "verifiedDate": "Nov 21",
+      "tier": 1,
+      "role": "Official PS5 Trophy List, Grades & Hidden Flags"
+    },
+    {
+      "id": "pushsquare",
+      "name": "Push Square",
+      "domain": "pushsquare.com",
+      "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap",
+      "pagesRead": 5,
+      "claimsBacked": 148,
+      "verifiedDate": "Nov 21",
+      "tier": 1,
+      "role": "Spoiler-Free PS5 Roadmap & Difficulty Estimate"
+    },
+    {
+      "id": "eurogamer",
+      "name": "Eurogamer",
+      "domain": "eurogamer.net",
+      "url": "https://www.eurogamer.net/gta-6-guide-walkthrough-tips",
+      "pagesRead": 5,
+      "claimsBacked": 118,
+      "verifiedDate": "Nov 21",
+      "tier": 1,
+      "role": "Campaign Chapters, Strangers & Activity Walkthroughs"
+    },
+    {
+      "id": "gamesradar",
+      "name": "GamesRadar+",
+      "domain": "gamesradar.com",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-trophy-achievement-list/",
+      "pagesRead": 5,
+      "claimsBacked": 132,
+      "verifiedDate": "Nov 21",
+      "tier": 1,
+      "role": "PS5 Trophy Breakdown, Cheats & Missable Warnings"
+    },
+    {
+      "id": "psnprofiles",
+      "name": "PSNProfiles",
+      "domain": "psnprofiles.com",
+      "url": "https://psnprofiles.com/trophies/grand-theft-auto-vi",
+      "pagesRead": 5,
+      "claimsBacked": 174,
+      "verifiedDate": "Nov 21",
+      "tier": 1,
+      "role": "PSN Sync Tracking, Rarity & Community Split Notes"
+    },
+    {
+      "id": "ign",
+      "name": "IGN Wiki",
+      "domain": "ign.com",
+      "url": "https://www.ign.com/wikis/gta-6/GTA_6_100_Percent_Guide",
+      "pagesRead": 6,
+      "claimsBacked": 141,
+      "verifiedDate": "Nov 21",
+      "tier": 1,
+      "role": "100% Completion Checklist & WAiNK Map Indexes"
+    },
+    {
+      "id": "gamespot",
+      "name": "GameSpot",
+      "domain": "gamespot.com",
+      "url": "https://www.gamespot.com/games/grand-theft-auto-vi/guides/",
+      "pagesRead": 3,
+      "claimsBacked": 84,
+      "verifiedDate": "Nov 21",
+      "tier": 1,
+      "role": "Campaign Progression, No-Difficulty & Cheat Lock Notes"
+    },
+    {
+      "id": "gtabase",
+      "name": "GTABase",
+      "domain": "gtabase.com",
+      "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series",
+      "pagesRead": 4,
+      "claimsBacked": 122,
+      "verifiedDate": "Nov 21",
+      "tier": 1,
+      "role": "Vehicle Database (557), Garages & Property Catalog"
+    },
+    {
+      "id": "rps",
+      "name": "Rock Paper Shotgun",
+      "domain": "rockpapershotgun.com",
+      "url": "https://www.rockpapershotgun.com/gta-6-trophy-achievements-list-all-trophies",
+      "pagesRead": 3,
+      "claimsBacked": 92,
+      "verifiedDate": "Nov 21",
+      "tier": 1,
+      "role": "Hidden Trophy Catalog & Open-World Crime Mechanics"
+    },
+    {
+      "id": "truetrophies",
+      "name": "TrueTrophies",
+      "domain": "truetrophies.com",
+      "url": "https://www.truetrophies.com/game/Grand-Theft-Auto-VI/trophies",
+      "pagesRead": 3,
+      "claimsBacked": 104,
+      "verifiedDate": "Nov 21",
+      "tier": 1,
+      "role": "Live Trophy Tracker Counters & Secret Status"
+    },
+    {
+      "id": "beebom",
+      "name": "Beebom",
+      "domain": "beebom.com",
+      "url": "https://beebom.com/gta-6-meditation-spots-locations/",
+      "pagesRead": 3,
+      "claimsBacked": 76,
+      "verifiedDate": "Nov 21",
+      "tier": 1,
+      "role": "All 18 Meditation Spots & Ch.1 Balcony Verification"
+    },
+    {
+      "id": "pst",
+      "name": "PlayStationTrophies",
+      "domain": "playstationtrophies.org",
+      "url": "https://www.playstationtrophies.org/game/grand-theft-auto-6/guide/",
+      "pagesRead": 3,
+      "claimsBacked": 112,
+      "verifiedDate": "Nov 21",
+      "tier": 1,
+      "role": "Criminal Profile Actions & Heist Route Guides"
+    },
+    {
+      "id": "pcgamer",
+      "name": "PC Gamer",
+      "domain": "pcgamer.com",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-achievements-list/",
+      "pagesRead": 2,
+      "claimsBacked": 64,
+      "verifiedDate": "Nov 21",
+      "tier": 1,
+      "role": "Strangers & Freaks Strands & Collectibles Summary"
+    },
+    {
+      "id": "powerpyx_100",
+      "name": "PowerPyx 100% Guide",
+      "domain": "powerpyx.com",
+      "url": "https://www.powerpyx.com/gta-6-100-completion-checklist-guide/",
+      "pagesRead": 1,
+      "claimsBacked": 38,
+      "verifiedDate": "Nov 21",
+      "tier": 2,
+      "role": "35-Item 100% Completion Checklist Thresholds"
+    },
+    {
+      "id": "powerpyx_med",
+      "name": "PowerPyx Meditations",
+      "domain": "powerpyx.com",
+      "url": "https://www.powerpyx.com/gta-6-all-meditation-spot-locations/",
+      "pagesRead": 1,
+      "claimsBacked": 24,
+      "verifiedDate": "Nov 21",
+      "tier": 2,
+      "role": "18 Meditation Spots & Key Lento Deck Guide"
+    },
+    {
+      "id": "powerpyx_ranges",
+      "name": "PowerPyx Shooting Ranges",
+      "domain": "powerpyx.com",
+      "url": "https://www.powerpyx.com/gta-6-all-shooting-range-gold-medal-challenges/",
+      "pagesRead": 1,
+      "claimsBacked": 18,
+      "verifiedDate": "Nov 21",
+      "tier": 2,
+      "role": "12 Ranges & 42 Gold Medal Targets"
+    },
+    {
+      "id": "powerpyx_drones",
+      "name": "PowerPyx Top Fun",
+      "domain": "powerpyx.com",
+      "url": "https://www.powerpyx.com/gta-6-all-top-fun-drone-race-time-trial-locations/",
+      "pagesRead": 1,
+      "claimsBacked": 16,
+      "verifiedDate": "Nov 21",
+      "tier": 2,
+      "role": "14 Top Fun Drone Hubs (42 Time Trials)"
+    },
+    {
+      "id": "powerpyx_stunts",
+      "name": "PowerPyx Stunt Jumps",
+      "domain": "powerpyx.com",
+      "url": "https://www.powerpyx.com/gta-6-all-stunt-jump-locations/",
+      "pagesRead": 1,
+      "claimsBacked": 20,
+      "verifiedDate": "Nov 21",
+      "tier": 2,
+      "role": "130 Stunt Jumps & 397 Total Stunt Pool"
+    },
+    {
+      "id": "powerpyx_vaults",
+      "name": "PowerPyx Bank Vaults",
+      "domain": "powerpyx.com",
+      "url": "https://www.powerpyx.com/gta-6-all-bank-jobs-locations-bank-vaults/",
+      "pagesRead": 1,
+      "claimsBacked": 22,
+      "verifiedDate": "Nov 21",
+      "tier": 2,
+      "role": "8 Large Bank Vaults & Yasmani Intel Tips"
+    },
+    {
+      "id": "powerpyx_gangs",
+      "name": "PowerPyx Gang Ops",
+      "domain": "powerpyx.com",
+      "url": "https://www.powerpyx.com/gta-6-all-illegal-gang-operations-locations/",
+      "pagesRead": 1,
+      "claimsBacked": 18,
+      "verifiedDate": "Nov 21",
+      "tier": 2,
+      "role": "9 Gangs & 39 Illegal Operation Compounds"
+    },
+    {
+      "id": "powerpyx_cards",
+      "name": "PowerPyx Card Sets",
+      "domain": "powerpyx.com",
+      "url": "https://www.powerpyx.com/gta-6-all-collectible-card-sets-locations/",
+      "pagesRead": 1,
+      "claimsBacked": 16,
+      "verifiedDate": "Nov 21",
+      "tier": 2,
+      "role": "18 Collectible Card Sets Breakdown"
+    },
+    {
+      "id": "powerpyx_waink",
+      "name": "PowerPyx WAiNK Scans",
+      "domain": "powerpyx.com",
+      "url": "https://www.powerpyx.com/gta-6-all-waink-scan-locations/",
+      "pagesRead": 1,
+      "claimsBacked": 20,
+      "verifiedDate": "Nov 21",
+      "tier": 2,
+      "role": "Landmarks, Curiosities & Sculptures Pool"
+    },
+    {
+      "id": "powerpyx_challenges",
+      "name": "PowerPyx Challenges",
+      "domain": "powerpyx.com",
+      "url": "https://www.powerpyx.com/gta-6-all-challenges-guide/",
+      "pagesRead": 1,
+      "claimsBacked": 18,
+      "verifiedDate": "Nov 21",
+      "tier": 2,
+      "role": "80 In-Game Challenges (50 Trophy / 70 100%)"
+    },
+    {
+      "id": "powerpyx_garages",
+      "name": "PowerPyx Garages",
+      "domain": "powerpyx.com",
+      "url": "https://www.powerpyx.com/gta-6-all-garage-locations/",
+      "pagesRead": 1,
+      "claimsBacked": 14,
+      "verifiedDate": "Nov 21",
+      "tier": 2,
+      "role": "8 Purchasable & 4 Story Garages"
+    },
+    {
+      "id": "powerpyx_strangers",
+      "name": "PowerPyx Strangers",
+      "domain": "powerpyx.com",
+      "url": "https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/",
+      "pagesRead": 1,
+      "claimsBacked": 24,
+      "verifiedDate": "Nov 21",
+      "tier": 2,
+      "role": "Qualifying vs Non-Qualifying Strand List"
+    },
+    {
+      "id": "powerpyx_arcade",
+      "name": "PowerPyx Video Games",
+      "domain": "powerpyx.com",
+      "url": "https://www.powerpyx.com/gta-6-all-video-game-locations/",
+      "pagesRead": 1,
+      "claimsBacked": 14,
+      "verifiedDate": "Nov 21",
+      "tier": 2,
+      "role": "4 Arcade & Home TV Video Games"
+    },
+    {
+      "id": "ign_waink",
+      "name": "IGN WAiNK Map",
+      "domain": "ign.com",
+      "url": "https://www.ign.com/wikis/gta-6/WAiNK_Locations",
+      "pagesRead": 1,
+      "claimsBacked": 19,
+      "verifiedDate": "Nov 21",
+      "tier": 2,
+      "role": "District WAiNK Landmarks & Vehicle Scans"
+    },
+    {
+      "id": "pushsquare_news",
+      "name": "Push Square Trophy Reveal",
+      "domain": "pushsquare.com",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum",
+      "pagesRead": 1,
+      "claimsBacked": 22,
+      "verifiedDate": "Nov 21",
+      "tier": 2,
+      "role": "Official Launch PS5 Grade Split Verification"
+    }
+  ],
+  "agreementMatrix": [
+    {
+      "claim": "55 Trophies · 0 Online · 28 Hidden",
+      "statuses": {
+        "powerpyx": "agree",
+        "psnprofiles": "agree",
+        "exophase": "agree",
+        "pushsquare": "agree",
+        "eurogamer": "agree",
+        "ign": "agree"
+      }
+    },
+    {
+      "claim": "No Mission Replay / No Gold Medals",
+      "statuses": {
+        "powerpyx": "agree",
+        "psnprofiles": "agree",
+        "exophase": "agree",
+        "pushsquare": "agree",
+        "eurogamer": "agree",
+        "ign": "agree"
+      }
+    },
+    {
+      "claim": "Ch.1 Deck Meditation (#28) Missable",
+      "statuses": {
+        "powerpyx": "split",
+        "psnprofiles": "split",
+        "exophase": "agree",
+        "pushsquare": "split",
+        "eurogamer": "split",
+        "ign": "split"
+      }
+    },
+    {
+      "claim": "100% Checklist (#14) ~60% True Buffer",
+      "statuses": {
+        "powerpyx": "agree",
+        "psnprofiles": "agree",
+        "exophase": "agree",
+        "pushsquare": "agree",
+        "eurogamer": "agree",
+        "ign": "agree"
+      }
+    },
+    {
+      "claim": "Platinum Time (200h vs 250–300h)",
+      "statuses": {
+        "powerpyx": "agree",
+        "psnprofiles": "agree",
+        "exophase": "agree",
+        "pushsquare": "split",
+        "eurogamer": "split",
+        "ign": "agree"
+      }
+    }
+  ]
+}
