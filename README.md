@@ -1,6 +1,8 @@
 # Palm & Coast Casebook — GTA VI PS5 Trophy Guide & Tracker
 
-[![gta6-trophy-guide-01](https://make.fun/api/competitions/gta6-trophy-guide-01/badge.svg)](https://make.fun/c/gta6-trophy-guide-01)
+[![make.fun · gta6-trophy-guide-01](https://make.fun/badge/gta6-trophy-guide-01.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+[![rank](https://make.fun/badge/gta6-trophy-guide-01/Regian1117/gta6-trophy-guide/rank.svg)](https://make.fun/bounty/gta6-trophy-guide-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+[![reward](https://make.fun/badge/gta6-trophy-guide-01/Regian1117/gta6-trophy-guide/reward.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
 
 **Palm & Coast Casebook** is an original, 100% offline-first guide, citation audit ledger, and progress tracker for all **55 PlayStation 5 trophies** in *Grand Theft Auto VI* (`1 Platinum · 2 Gold · 6 Silver · 46 Bronze`, `28 PSN Hidden`, `0 Online`).
 
